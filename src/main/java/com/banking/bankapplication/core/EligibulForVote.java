@@ -5,7 +5,7 @@ package com.banking.bankapplication.core;
 
 /**
  * 
- */
+ */ @author  :chenchuraj
 public class EligibulForVote {
 
 	public static void main(String[] args) {
