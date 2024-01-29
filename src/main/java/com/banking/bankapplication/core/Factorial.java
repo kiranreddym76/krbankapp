@@ -1,5 +1,6 @@
 package com.banking.bankapplication.core;
 
+@author raja
 public class Factorial {
 
 	public static void main(String[] args) {
