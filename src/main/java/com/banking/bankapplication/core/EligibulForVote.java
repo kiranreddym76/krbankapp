@@ -4,8 +4,8 @@
 package com.banking.bankapplication.core;
 
 /**
- * 
- */
+ * @author  :chenchuraja
+ */ 
 public class EligibulForVote {
 
 	public static void main(String[] args) {
