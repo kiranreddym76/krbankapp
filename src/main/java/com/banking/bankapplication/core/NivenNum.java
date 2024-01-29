@@ -15,9 +15,7 @@ public class NivenNum {
 	 */
 	public static void main(String[] args) {
 		
-		   Scanner scn=new Scanner(System.in);
-		   System.out.println("Enter The Number:---");
-		   int num=scn.nextInt();
+		  int num=153;
 		
 		 if(num<0) {
 			   System.out.println("No-Negatives");
